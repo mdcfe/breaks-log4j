@@ -1,0 +1,4 @@
+name: MDBreaksLog4j
+version: @version@
+main: io.github.mdcfe.mdbreakslog4j.MdBreaksLog4j
+api-version: 1.16
